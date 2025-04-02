@@ -1,6 +1,6 @@
 <h1 align="center">100 DAYS OF CODE JS💻 </h1>
 
-Seja bem-vindo ao meu projeto que propõe um desafio de codar em JS durante 100 dias! Conheci esse projeto através da **[(Jennyfer Alvim de Oliveira)](https://www.linkedin.com/in/jennyfer-alvim-de-oliveira-800441263/)**, que realizou usando PHP.
+Seja bem-vindo ao meu projeto que propõe um desafio de codar em JS durante 100 dias! Conheci esse projeto através da **[Jennyfer Alvim de Oliveira](https://www.linkedin.com/in/jennyfer-alvim-de-oliveira-800441263/)**, que realizou usando PHP.
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
